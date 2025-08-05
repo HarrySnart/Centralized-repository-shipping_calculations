@@ -1,9 +1,5 @@
  # Here is a new update by HarrySnart
 
-# Here is another update by HarrySnart
-
-
-
 # Shipping Cost Calculator
 
 ## Input package weight and shipping rate
